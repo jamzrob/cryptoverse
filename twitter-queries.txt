@@ -1,0 +1,3 @@
+bitcoin -giveaway min_faves:100 until:2020-11-01 since:2020-10-01
+
+(bitcoin OR btc) -giveaway min_faves:100 lang:en until:2020-11-01 since:2020-08-01 -filter:links -filter:replies
